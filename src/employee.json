@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "Rahid",
+    "address": "Baku",
+    "phoneNumber": "999999999",
+    "email": "rahidaliyev18@gmail.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Sam",
+    "address": "Tokyo",
+    "phoneNumber": "9999999999",
+    "email": "sam@mail.com"
+  },
+  {
+    "id": 3,
+    "fullName": "tony",
+    "address": "Baku",
+    "phoneNumber": "999999999",
+    "email": "tony@mail.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Jery",
+    "address": "333",
+    "phoneNumber": "999999",
+    "email": "jeremy@mail.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Ray",
+    "address": "99",
+    "phoneNumber": "323",
+    "email": "raymon@mail.com"
+  }
+]

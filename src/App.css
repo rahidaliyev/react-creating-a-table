@@ -1,0 +1,63 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 8px;
+  font-size: 32px;
+}
+
+
+
+
+form {
+  display: flex;
+  gap: 5px;
+}
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+form * {
+  font-size: 28px;
+}
+
+
+
+#delete{
+  background-color:red;
+  color:white;
+}
+
+#edit{
+  background-color:green;
+  color:white;
+}
+
+
+button:hover{
+  cursor: pointer;
+}
+
+thead{
+  background-color: rgb(142, 142, 219);
+  color: white;
+}
+td{
+  background-color: #d8cdcd;
+}
+
+
